@@ -1,1 +1,1 @@
-console.log("new feature")
+console.log("New Feature")
